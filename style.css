@@ -1,0 +1,16 @@
+#logo {
+    width: 20%;
+    height: 20%;
+    margin-top: 50px;
+}
+
+.form {
+    width: 25%;
+    text-align: left;
+    margin-top: 40px;
+   
+}
+
+.card-body {
+    text-align: center;
+}
